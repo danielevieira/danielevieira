@@ -11,9 +11,8 @@
 
 #### <h2 align="center" dir="auto">👩‍💻 Plataformas: </h2>
 <div align="center"><div style="display: inline_block">
-<img align="center" alt="iOS" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)"/>
-<img align="center" alt="iOS" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          "/>  
+<img align="center" alt="Android" src="<link rel="stylesheet" href="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img align="center" alt="iOS" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>  
 </div></div><br>
 
           
