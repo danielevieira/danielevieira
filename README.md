@@ -18,7 +18,7 @@
   </summary>
 
   <a name="language"></a>
-  - JavaScript
+  - JavaScript - Em andamento
 </details>
 
 <details>
@@ -28,7 +28,7 @@
 
   <a name="framework"></a>
   
-  - Cypress
+  - Cypress - Em andamento
 </details>
 
 <details>
@@ -38,30 +38,9 @@
 
   <a name="cicd"></a>
   
-  - Git
+  - Git - Em andamento
   - GitHub
 
-</details>
-
-<details>
-  <summary>
-    <a>Banco de dados</a>
-  </summary>
-
-  <a name="database"></a>
-  
-  - SQL: MySQL 
-
-</details>
-
-<details>
-  <summary>
-    <a>Outras ferramentas</a>
-  </summary>
-
-  <a name="tools"></a>
-  
-  - Postman
 </details>
 
 ## Certificação internacional
