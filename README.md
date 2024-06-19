@@ -79,6 +79,17 @@
   - [Acesse o repositório](https://github.com/danielevieira)
 </details>
 
+<details>
+  <summary>
+    <a>API</a>
+  </summary>
+
+  <a name="API"></a>
+  
+  - [Acesse o curso]
+  - [Acesse o repositório]
+</details>
+
 ## Plataformas
 <div align="left"><div style="display: inline_block">
 <img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
